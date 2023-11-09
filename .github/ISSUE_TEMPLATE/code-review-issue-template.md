@@ -7,12 +7,6 @@ assignees: ''
 
 ---
 
-name: Code Review Template
-about: Use this template to create a new issue for your code review
-title: "[project name] - code review"
-labels: ''"
-assignees: ''"
-
 ### README
 
 [Does the README describe the project using the subheadings: Why?, What?, How? i.e. Why have you created this repo, what does it do, how does it do it?]
